@@ -23,7 +23,7 @@ Users engage with NAVI via a chat interface. The assistant collects basic health
 
 ## 🚀 Live Demo
 
-> Check out the deployed chatbot on [Hugging Face Spaces](https://huggingface.co/spaces/hassaan806/nutrition-chatbot) *(example link — replace with your actual URL if different)*
+> Check out the deployed chatbot on [Hugging Face Spaces](https://huggingface.co/spaces/hassaan806/nutrition-chatbot)
 
 ## 📁 Project Structure
 
