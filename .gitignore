@@ -7,3 +7,6 @@ venv/
 .DS_Store
 *.idea/
 assets/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
